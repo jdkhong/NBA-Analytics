@@ -4,8 +4,10 @@
 ----
 I. Shot Charts
 - Interactive NBA shot charts
+
 II. Shot EDA
 - Exploratory analysis on team and individual offense
+
 III. Shot Prediction Models
 - Predicting if a shot is made or not
 
