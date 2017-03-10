@@ -2,7 +2,7 @@
 
 #### Summary of Notebooks
 ----
-I. Shot Charts
+I. Shot chart data visualizations
 - Interactive NBA shot charts
 
 II. Shot EDA
