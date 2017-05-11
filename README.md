@@ -25,6 +25,6 @@ Lastly, I plan on conducting more NBA analysis (rebounding, player clustering, e
 
 [Robin Wilson](http://blog.rtwilson.com/bokeh-plots-with-dataframe-based-tooltips/) on plotting interactive Bokeh data visualizations.
 
-[Machine Learning Mastery] (http://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/) on XGBoost and other machine learning techniques.
+[Machine Learning Mastery](http://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/) on XGBoost and other machine learning techniques.
 
 These data science bloggers were very useful resources.
