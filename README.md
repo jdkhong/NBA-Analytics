@@ -21,10 +21,6 @@ Lastly, I plan on conducting more NBA analysis (rebounding, player clustering, e
 ----
 [Savvas Tjortjoglou](https://github.com/savvastj/nbashots) for his NBA shot chart packege. 
 
-[Daniel Forsyth](http://www.danielforsyth.me/exploring_nba_data_in_python/) about exploring NBA shot logs.
-
 [Robin Wilson](http://blog.rtwilson.com/bokeh-plots-with-dataframe-based-tooltips/) on plotting interactive Bokeh data visualizations.
-
-[Machine Learning Mastery](http://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/) on XGBoost and other machine learning techniques.
 
 These data science bloggers were very useful resources.
