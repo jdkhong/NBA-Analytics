@@ -11,6 +11,9 @@ II. Shot EDA
 III. Shot Prediction Models
 - Predicting if a shot is made or not
 
+IV. NCAA March Madness Models
+- Predicting if a team will beat another team based on ELO Rating and XGBoost.
+
 #### Limitations
 ----
 Though the analysis of the data shot logs was quite insightful and interesting, the NBA has limited access to its stats.nba.com API, which means
